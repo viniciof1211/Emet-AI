@@ -19,6 +19,8 @@ The "Dynamic Language Creation" feature of iQuantumMagister represents a revolut
 **Generative Grammar Design**:
 - Utilizing advanced machine learning algorithms, iQuantumMagister will create grammars that define the structure and rules of newly generated languages. This could involve techniques like probabilistic context-free grammars or neural grammar generation systems that allow the AI to customize syntax based on the communicative needs of different models.
 
+![Generative Grammar](rsc/gg-arch.png)
+
 **Semantic Embedding**:
 - Each language crafted by iQuantumMagister will embed specific semantic structures that align with the cognitive styles and operational modalities of different AI systems. This includes the ability to encode data representations that may be entirely abstract or unique to the competent models, allowing for efficient and meaningful exchanges.
 
