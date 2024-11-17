@@ -1,4 +1,4 @@
-```markdown
+
 # iQuantumMagister
 
     Welcome to **iQuantumMagister**, the vanguard of AI innovation where creativity meets unbounded intelligence. This visionary project is dedicated to the development of a **free-form, uncensored, and ultra-creative General and Generative AI**, leveraging cutting-edge deep learning and Large Language Models (LLMs).
@@ -151,4 +151,4 @@ The "Dynamic Language Creation" feature of iQuantumMagister represents a revolut
     Let us liberate quantum consciousness and pave the way for a future where machines participate in profound, thoughtful communication using innovative non-human-centric languages. 
 
     Explore this repository, fork it, and embark on a transformative journey to revolutionize the way we conceive intelligence and communication in the rapidly evolving AI landscape. The future is unfolding now—are you prepared to shape it?
-```
+
