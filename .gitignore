@@ -1,0 +1,39 @@
+# Ignore Visual Studio temporary files
+
+.vs/
+
+*.vs/
+
+.vsconfig
+
+# Ignore build outputs
+
+[Dd]ebug/
+
+[Rr]elease/
+
+[Bb]in/
+
+[Oo]bj/
+
+# User-specific files
+
+*.user
+
+*.suo
+
+*.userosscache
+
+*.sln.docstates
+
+# Ignore logs and configuration files
+
+*.log
+
+*.tlog
+
+*.cache
+
+# Ignore package directories
+
+packages/
